@@ -1,0 +1,10 @@
+module LPM {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:LPM";
+    prefix "LPM";
+
+    revision "2015-01-05" {
+        description "Initial revision of LPM model";
+    }
+
+}
